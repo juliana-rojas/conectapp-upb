@@ -1,8 +1,8 @@
 # ConectAPP UPB
-
 ConectAPP UPB es una aplicación que permite a los estudiantes de la Universidad Pontificia Bolivariana conectar con profesores y otros estudiantes avanzados para agendar clases.
 
 ## Características
+- santiago miranda 
 
 - **Página de Inicio:** Explica los propósitos de la plataforma, conectando estudiantes y profesores.
 - **Menú de Navegación:** Enlaces a las páginas de "Inicio", "Contacto" y "Descargas".
@@ -29,3 +29,6 @@ ConectAPP UPB es una aplicación que permite a los estudiantes de la Universidad
    ```
 
 3. Abre el archivo `index.html` en tu navegador.
+
+##colaboradores
+- santiago miranda 
